@@ -1,0 +1,3 @@
+```
+forge remappings > remappings.txt
+```
