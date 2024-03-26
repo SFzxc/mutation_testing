@@ -2,7 +2,7 @@
 pragma solidity ^0.8.13;
 
 import { Ownable } from "openzeppelin-contracts/contracts/access/Ownable.sol";
-import "forge-std/console.sol";
+// import "forge-std/console.sol";
 
 contract Ticketer is Ownable {
 
